@@ -1,6 +1,5 @@
 #!/bin/bash
-#Challenge 1: 2 changing the first line - Challenge 2: 2 making a change
-#Challenge 1: 2 changing the first line
+#Challenge 1: 2 changing the first line - Challenge 2: 2 making a change. This is #1 changing the first line for chal. 2
 #This will contain my analytical method!
 #New method v2
 
